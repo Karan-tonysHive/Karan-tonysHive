@@ -1,6 +1,6 @@
-## KARAN R SDE 👨‍💻
+## KARAN R SDE @ TONYSHIVE 👨‍💻
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Contribution Stats :</h3>
 
 ###
 
@@ -10,9 +10,5 @@
 
 ###
 
-## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Karan-tonysHive&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-###
 
