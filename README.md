@@ -10,9 +10,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-tonysHive&layout=compact&theme=vision-friendly-dark" height="220"/>
-</div>
-
-###
 
